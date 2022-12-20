@@ -1,0 +1,7 @@
+graphql
+rest api
+diff. graphql and rest api
+api
+recall git hub 
+and updates all software you hav einstall like
+nodejs, react js ,etc
